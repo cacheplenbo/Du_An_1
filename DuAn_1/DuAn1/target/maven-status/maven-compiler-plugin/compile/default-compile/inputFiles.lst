@@ -1,8 +1,14 @@
-C:\Users\Xuan Truong\Documents\NetBeansProjects\DuAn1\src\main\java\model\NhanVien.java
-C:\Users\Xuan Truong\Documents\NetBeansProjects\DuAn1\src\main\java\model\LoaiSanPham.java
-C:\Users\Xuan Truong\Documents\NetBeansProjects\DuAn1\src\main\java\model\NhaPhanPhoi.java
-C:\Users\Xuan Truong\Documents\NetBeansProjects\DuAn1\src\main\java\model\SanPham.java
-C:\Users\Xuan Truong\Documents\NetBeansProjects\DuAn1\src\main\java\model\ChucVu.java
-C:\Users\Xuan Truong\Documents\NetBeansProjects\DuAn1\src\main\java\model\DanhMuc.java
-C:\Users\Xuan Truong\Documents\NetBeansProjects\DuAn1\src\main\java\model\DoiTra.java
-C:\Users\Xuan Truong\Documents\NetBeansProjects\DuAn1\src\main\java\com\mycompany\duan1\DuAn1.java
+F:\FPoly\PRO1041\Du_An_1\DuAn_1\DuAn1\src\main\java\view\ViewBanHang.java
+F:\FPoly\PRO1041\Du_An_1\DuAn_1\DuAn1\src\main\java\Service\ImanageKhachHangService.java
+F:\FPoly\PRO1041\Du_An_1\DuAn_1\DuAn1\src\main\java\Responsitory\IKhachHangResponsitory.java
+F:\FPoly\PRO1041\Du_An_1\DuAn_1\DuAn1\src\main\java\ViewModel\QLKhachHang.java
+F:\FPoly\PRO1041\Du_An_1\DuAn_1\DuAn1\src\main\java\view\giaodienchinh.java
+F:\FPoly\PRO1041\Du_An_1\DuAn_1\DuAn1\src\main\java\Application\DuAn1.java
+F:\FPoly\PRO1041\Du_An_1\DuAn_1\DuAn1\src\main\java\view\login.java
+F:\FPoly\PRO1041\Du_An_1\DuAn_1\DuAn1\src\main\java\model\KhachHang.java
+F:\FPoly\PRO1041\Du_An_1\DuAn_1\DuAn1\src\main\java\Responsitory\KhachHangResponsitory.java
+F:\FPoly\PRO1041\Du_An_1\DuAn_1\DuAn1\src\main\java\view\QLNhanVien.java
+F:\FPoly\PRO1041\Du_An_1\DuAn_1\DuAn1\src\main\java\Service\manageKhachHangService.java
+F:\FPoly\PRO1041\Du_An_1\DuAn_1\DuAn1\src\main\java\Utilities\DBConection.java
+F:\FPoly\PRO1041\Du_An_1\DuAn_1\DuAn1\src\main\java\view\FormQLKhachHang.java
+F:\FPoly\PRO1041\Du_An_1\DuAn_1\DuAn1\src\main\java\view\QLSach.java

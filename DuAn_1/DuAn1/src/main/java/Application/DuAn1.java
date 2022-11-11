@@ -1,6 +1,6 @@
 
 
-package com.mycompany.duan1;
+package Application;
 
 /**
  *
