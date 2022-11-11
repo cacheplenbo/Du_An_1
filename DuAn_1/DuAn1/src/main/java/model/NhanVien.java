@@ -32,7 +32,7 @@ public class NhanVien {
     @Column(name = "GioiTinh")
     private boolean gioiTinh;
     @Column(name = "NgaySinh")
-    private Date ngaySinh;
+    private String ngaySinh;
     @Column(name = "DiaChi")
     private String diaChi;
     @Column(name = "SDT")
@@ -65,7 +65,7 @@ public class NhanVien {
     public NhanVien() {
     }
 
-    public NhanVien(String maNhanVien, String tenNhanVien, ChucVu maChucVu, boolean gioiTinh, Date ngaySinh, String diaChi, String SDT, String taiKhoan, String matKhau) {
+    public NhanVien(String maNhanVien, String tenNhanVien, ChucVu maChucVu, boolean gioiTinh, String ngaySinh, String diaChi, String SDT, String taiKhoan, String matKhau) {
         this.maNhanVien = maNhanVien;
         this.tenNhanVien = tenNhanVien;
         this.maChucVu = maChucVu;
@@ -109,11 +109,11 @@ public class NhanVien {
         this.gioiTinh = gioiTinh;
     }
 
-    public Date getNgaySinh() {
+    public String getNgaySinh() {
         return ngaySinh;
     }
 
-    public void setNgaySinh(Date ngaySinh) {
+    public void setNgaySinh(String ngaySinh) {
         this.ngaySinh = ngaySinh;
     }
 
